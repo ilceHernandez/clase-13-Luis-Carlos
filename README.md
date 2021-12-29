@@ -1,2 +1,1 @@
-# clase-13-Luis-Carlos
-Código con notas para Luis Carlos
+# C13_Trex_3.5
